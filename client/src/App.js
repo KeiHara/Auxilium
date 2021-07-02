@@ -1,9 +1,17 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import NavbarComp from '../src/components/NavbarComp'
+import { AuthProvider } from "../src/contexts/AuthContext"
+
 
 function App() {
+
   return (
-    <div className="App">
-    </div>
+    <AuthProvider>
+      <div className="App">
+        <NavbarComp />
+      </div>
+    </AuthProvider>
   );
 }
 

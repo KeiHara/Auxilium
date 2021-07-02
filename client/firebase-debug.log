@@ -1,0 +1,42 @@
+[debug] [2021-07-02T11:28:05.793Z] ----------------------------------------------------------------------
+[debug] [2021-07-02T11:28:05.795Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Kei Hara\projects\hackathon\client\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-07-02T11:28:05.795Z] CLI Version:   9.14.0
+[debug] [2021-07-02T11:28:05.795Z] Platform:      win32
+[debug] [2021-07-02T11:28:05.795Z] Node Version:  v16.2.0
+[debug] [2021-07-02T11:28:05.796Z] Time:          Fri Jul 02 2021 23:28:05 GMT+1200 (New Zealand Standard Time)
+[debug] [2021-07-02T11:28:05.796Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-02T11:28:05.803Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-07-02T11:28:05.804Z] > authorizing via signed-in user (capricorn2003sheep@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Kei Hara\projects\hackathon\client
+
+[debug] [2021-07-02T11:30:51.103Z] ----------------------------------------------------------------------
+[debug] [2021-07-02T11:30:51.104Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Kei Hara\projects\hackathon\client\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-07-02T11:30:51.105Z] CLI Version:   9.14.0
+[debug] [2021-07-02T11:30:51.105Z] Platform:      win32
+[debug] [2021-07-02T11:30:51.105Z] Node Version:  v16.2.0
+[debug] [2021-07-02T11:30:51.106Z] Time:          Fri Jul 02 2021 23:30:51 GMT+1200 (New Zealand Standard Time)
+[debug] [2021-07-02T11:30:51.106Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-02T11:30:51.113Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-07-02T11:30:51.113Z] > authorizing via signed-in user (capricorn2003sheep@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Kei Hara\projects\hackathon\client
+
