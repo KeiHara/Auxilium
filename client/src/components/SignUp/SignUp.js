@@ -57,11 +57,12 @@ const SignUp = () => {
                         <Form.Label>Password Confirmation</Form.Label>
                         <Form.Control type="password" ref={passwordConfirmRef} required/>
                     </Form.Group>
-                    </Form>
-                    <div disabled={loading} style={{color: "#CFDBD5"}} className="text-center mt-2">
-                    Already have an account? <Link style={{color: "#CFDBD5"}} to="/login"><em>Log In</em></Link>
-                    </div>
                     <Button style={{marginTop: "2vh", color: "black", backgroundColor: "#F5CB5C", borderColor: "black"}} className="w-50 mb-3" type="submit">Sign Up</Button>
+                </Form>
+                    <div disabled={loading} style={{color: "#CFDBD5"}} className="text-center mt-2">
+                        Already have an account? <Link style={{color: "#CFDBD5"}} to="/login"><em>Log In</em></Link>
+                    </div>
+                    
             </div>
 
             </div>

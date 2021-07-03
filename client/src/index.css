@@ -113,7 +113,7 @@ code {
 }
 
 hr {
-  border-top: 3px dotted #333533 !important;
+  border-top: 2px dotted #333533 !important;
   width: 80% !important;
 }
 
@@ -127,4 +127,29 @@ hr {
   display: inline-block;
   text-align: center;
   margin: 1%;
+}
+
+.topNavBar {
+  margin: 18px 10px 10px 10px;
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  margin: 2px;
+  position: absolute;
+}
+
+.mainContent {
+  padding: 4%;
+}
+
+.mainContent h1 {
+  color: #B9B9B9;
+  font-size: 3rem;
+}
+
+.mainContent h2 {
+  color: white;
 }

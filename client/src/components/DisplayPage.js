@@ -5,7 +5,7 @@ import searchIcon from "./images/magnifyingglass.png";
 import logo from "./images/logo.png";
 
 
-function DisplayPage(){
+function DisplayPage(isLoggedIn){
     return(
         <div>
                 <div>
@@ -63,4 +63,4 @@ function DisplayPage(){
     )
 };
 
-export default DisplayPage;
+export default DisplayPage ;
