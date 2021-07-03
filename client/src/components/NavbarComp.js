@@ -30,7 +30,7 @@ const NavbarComp = () => {
     
     return (
         <Router>
-            <StyledNavbar bg="dark" variant="dark">
+            <div>
                 <Container>
                     <Navbar.Brand as={Link} to={"/home"}>Q&A</Navbar.Brand>
                         <Nav className="mr-auto">
@@ -49,9 +49,8 @@ const NavbarComp = () => {
                                 <Nav.Link as={Link} to={"/signUp"}>Sign Up</Nav.Link>
                             </Nav>
                             }
-                        
                     </Container>
-                </StyledNavbar>     
+                </div>     
             
             <Switch>
                 <Route path="/signup">

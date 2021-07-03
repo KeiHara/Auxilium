@@ -11,3 +11,120 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bigTitle {
+  height: 20vh;
+  background-color: #3f3e3e;
+  color: white;
+  margin-top: 15%;
+  position: relative;
+  text-align: center;
+}
+
+.bigTitleText {
+  font-size: 5rem;
+  line-height: 20vh;
+  margin-left: 5%;
+}
+
+.searchBarModel {
+  position: relative;
+  background-color: #242423;
+  height: 7vh;
+  width: 50vw;
+  margin: auto;
+  border: solid #dbdbdb;
+  border-width: 3.5px;
+  border-radius: 20px;
+}
+
+.smallBarModel1 {
+  margin-top: 2vh;
+  position: relative;
+  left: 32vw;
+  height: 5vh;
+  width: 15vw;
+  border: solid #f5cb5c;
+  border-width: 3.5px;
+  border-radius: 20px;
+  color: #f5cb5c;
+}
+
+.smallBarModel2 {
+  margin-top: 2vh;
+  position: relative;
+  right: 32vw;
+  background-color: #f5cb5c;
+  height: 5vh;
+  width: 15vw;
+  border: solid #f5cb5c;
+  border-width: 3.5px;
+  border-radius: 20px;
+}
+
+.userBoxes {
+  width: 40%;
+
+  background-color: #3F3E3E;
+  padding-top: 5vh;
+  border: solid #cfdbd5;
+  border-width: 3.5px;
+  border-radius: 20px;
+  padding-bottom: 5vh;
+  color: #cfdbd5;
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.mainNavBar {
+  background-color: #7CBBBB;
+  height: 100vh;
+  width: 100%;
+}
+
+.mainNavLinks {
+  padding: 6%;
+}
+
+.mainNavLinks h2{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.mainNavLinks h3 {
+  color: #333533;
+  font-size: 1.2rem;
+  margin: 5%;
+  text-align: center;
+}
+
+.mainNavLinks li {
+  color: #105058;
+}
+
+hr {
+  border-top: 3px dotted #333533 !important;
+  width: 80% !important;
+}
+
+.tags {
+  height: 4vh;
+  width: 5vw;
+  border: solid #cfdbd5;
+  border-width: 3.1px;
+  border-radius: 20px;
+  color: #cfdbd5;
+  display: inline-block;
+  text-align: center;
+  margin: 1%;
+}
